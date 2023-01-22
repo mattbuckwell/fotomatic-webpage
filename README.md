@@ -5,9 +5,11 @@ Simple landing page for a photo web page
 ## Description
 
 <p>
-This web site was an "off platform" exercise through Codecademy, using a design specification we had to make the website responsive to different screen sizes (desktop,
+This web site was an "off platform" exercise through Codecademy, using a design specification 
+we had to make the website responsive to different screen sizes (desktop,
 table, and mobile).
 </p>
+
 
 ## What was used for the Project
 
@@ -26,3 +28,4 @@ table, and mobile).
 
 Project work through Codecademy
 * [Codecademy](https://www.codecademy.com)
+* [Design Specification](https://content.codecademy.com/courses/freelance-1/capstone-1/specs/fotomatic_spec_landing_v2.png) 
